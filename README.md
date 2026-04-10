@@ -16,6 +16,10 @@ A simple currency converter web app built with HTML, CSS, and JavaScript.
 - `app.js` — currency conversion logic and API requests
 - `codes.js` — currency code mapping data
 
+## Live Demo
+
+Try the app live at: https://currency-convertermanas.vercel.app/
+
 ## Usage
 
 1. Open `index.html` in a browser.
